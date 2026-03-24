@@ -15,6 +15,7 @@ def listar_quartos():
     print("------------------------\n")
     print("------------------------\n")
     print("------------------------\n")
+    print("------------------------\n")
 def listar_quartos_disponiveis():
     """Lista apenas os quartos disponíveis."""
     disponiveis = [q for q in quartos if q["disponivel"]]
