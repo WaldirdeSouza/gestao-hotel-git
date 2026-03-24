@@ -57,4 +57,4 @@ gestao-hotel-git/
 `v1.0` — Versão final do sistema de gestão de hotel
 
 ## Contato
-hotel1@mail.com
+hotel@mail.com
