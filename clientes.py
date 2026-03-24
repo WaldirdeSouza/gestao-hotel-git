@@ -26,6 +26,7 @@ def listar_clientes():
         print(f"ID: {c['id']} | Nome: {c['nome']} | Email: {c['email']} | Tel: {c['telefone']}")
     print("-------------------------\n")
     print("-------------------------\n")
+    print("-------------------------\n")
 def obter_cliente(cliente_id):
     """Devolve um cliente pelo seu ID, ou None se não existir."""
     for c in clientes:
