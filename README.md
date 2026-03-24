@@ -4,7 +4,7 @@
 - Waldir Alves
 
 ## Descrição Geral
-Sistema simples desenvolvido em Python para gerir reservas, quartos e clientes de um hotel.  
+Sistema desenvolvido em Python para gerir reservas, quartos e clientes de um hotel, com recurso ao Git e GitHub. 
 O projeto foi desenvolvido como parte de um trabalho de avaliação focado na utilização de **Git e GitHub** para controlo de versões e organização do trabalho.
 
 ## Como Executar
