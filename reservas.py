@@ -53,3 +53,7 @@ def listar_reservas():
     for r in ativas:
         print(f"Reserva #{r['id']} | {r['cliente_nome']} | Quarto {r['numero_quarto']} | {r['data_entrada']} → {r['data_saida']}")
     print("-----------------------\n")
+    print("-----------------------\n")
+    print("-----------------------\n")
+    print("-----------------------\n")
+    print("-----------------------\n")
