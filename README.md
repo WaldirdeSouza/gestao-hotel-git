@@ -55,6 +55,6 @@ gestao-hotel-git/
 
 ## Versão
 `v1.0` — Versão final do sistema de gestão de hotel
-
+        Sistema desenvolvido em Python para gerir um hotel.
 ## Contato
 hotel@mail.com
