@@ -1,7 +1,7 @@
 # Sistema de Gestão de Reservas de Hotel
 
-## Autores
-- [O teu nome aqui]
+## Autor
+- Waldir Alves
 
 ## Descrição Geral
 Sistema simples desenvolvido em Python para gerir reservas, quartos e clientes de um hotel.  
