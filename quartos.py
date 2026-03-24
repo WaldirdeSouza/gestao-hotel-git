@@ -13,7 +13,9 @@ def listar_quartos():
         estado = "Disponível" if q["disponivel"] else "Ocupado"
         print(f"Quarto {q['numero']} | {q['tipo']} | {q['preco']:.2f}€/noite | {estado}")
     print("------------------------\n")
-
+    print("------------------------\n")
+    print("------------------------\n")
+    print("------------------------\n")
 def listar_quartos_disponiveis():
     """Lista apenas os quartos disponíveis."""
     disponiveis = [q for q in quartos if q["disponivel"]]
